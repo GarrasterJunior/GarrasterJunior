@@ -1,5 +1,5 @@
 Hi! My name's Garraster Júnior
-I'm a beginner dev. I'm looking for experience in programming and my first job as a dev. The biggest project I've ever been a part of, so far, was a college project. Where we made a program that received information from a TCC and saved it. Therefore, edits can be effected in the information and also in the search for the specific TCC.
+- I'm a beginner dev. I'm looking for experience in programming and my first job as a dev. The biggest project I've ever been a part of, so far, was a college project. Where we made a program that received information from a TCC and saved it. Therefore, edits can be effected in the information and also in the search for the specific TCC.
 
 ## Details
 - -> I'm a UFC student 
