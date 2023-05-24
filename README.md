@@ -7,7 +7,7 @@ Hi! My name's Garraster Júnior
 - ->I work well in a team and am always willing to help.
 
 ## Review
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GarrasterJunior)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GarrasterJunior&theme=dark)](https://git.io/streak-stats)
 
 ## Skills
 ![ Python ](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
