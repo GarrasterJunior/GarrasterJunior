@@ -7,10 +7,17 @@ Hi! My name's Garraster Júnior
 - ->I work well in a team and am always willing to help.
 
 ## Review
-[![Garraster's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarrasterJunior&count_private=true&show_icons=true&theme=dark)
-(https://github.com/anuraghazra/github-readme-stats)
-![Garraster's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarrasterJunior&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarrasterJunior&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ## Skills
 ![ Python ](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
