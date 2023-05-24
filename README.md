@@ -8,6 +8,7 @@ Hi! My name's Garraster Júnior
 
 ## Review
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GarrasterJunior&theme=dark)](https://git.io/streak-stats)
+https://gist.github.com/Garraster-Junior/8335e85451541072dd25fda601129f7d
 
 ## Skills
 ![ Python ](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
