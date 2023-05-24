@@ -7,8 +7,9 @@ Hi! My name's Garraster Júnior
 - ->I work well in a team and am always willing to help.
 
 ## Review
-[![Garraster's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarrasterJunior&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Garraster's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarrasterJunior&count_private=true&show_icons=true&theme=dark)
+(https://github.com/anuraghazra/github-readme-stats)
+![Garraster's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarrasterJunior&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarrasterJunior&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
