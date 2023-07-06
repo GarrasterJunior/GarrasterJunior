@@ -6,11 +6,6 @@ Hi! My name's Garraster Júnior
 - -> I'm studying about JavaScript and React.js
 - ->I work well in a team and am always willing to help.
 
-## Review
-![Garraster's GitHub stats](https://github-readme-stats.vercel.app/api?username=GarrasterJunior&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GarrasterJunior&layout=compact)](https://github.com/GarrasterJunior/github-readme-stats)
-
-
 ## Skills
 ![ Python ](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![ JavaScript ](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
